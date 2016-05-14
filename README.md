@@ -7,4 +7,7 @@ This repository contains the source codes for my Coursera - Developing Data Prod
 
 2. Shiny App source code: [GitHub link](https://github.com/FrankLa/DataProducts-ShinyAppCodes.git)
 
-3. Slidify Presentation source code: [GitHub link](https://github.com/FrankLa/DataProducts-Presentation.git)
+3. Slidify Slides: [GitHub Pages link](http://frankla.github.io/DataProducts-Presentation/)
+
+4. Slidify Presentation source code: [GitHub link](https://github.com/FrankLa/DataProducts-Presentation.git)
+
