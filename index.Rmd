@@ -5,7 +5,7 @@ author      : Frank La
 job         : 
 framework   : io2012      # {io2012, html5slides, shower, dzslides, slideous, landslide, revealjs, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : github        # {default, tomorrow, zenburn, solarized_dark, solarized_light, twitter-bootstrap, github}
+hitheme     : github        # {default, tomorrow, zenburn, solarized_dark, solarized_light, twitter-bootstrap, github, ...}
 widgets     : [mathjax]     # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 >* The app will solve the equation, tell you the results, and even make some plots!
 
 3. Why this app?
->* Some maths once in a while is fun!
+>* Once in a while I'd like to have fun with some maths!
 
 --- .class #id 
 
@@ -49,13 +49,21 @@ sol <- quartic(A0,A1,A2,A3,A4); quarticPlot(sol)
 ```
 
 
+--- .class #id
+
 ## See for Yourself
 
->* App URL (shinyApp):
+1. App URL: ShinyApp link
 
->* App source code (GitHub):
+2. App source code: [GitHub link](https://github.com/FrankLa/DataProducts-ShinyAppCodes.git)
 
->* Presentation source code:
+3. Presentation source code: [GitHub link](https://github.com/FrankLa/DataProducts-Presentation.git)
 
---- .class #id
+<br></br>
+
+>* <center><h3>
+  Have fun!
+</h3></center> 
+
+
 
