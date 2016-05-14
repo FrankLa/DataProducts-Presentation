@@ -40,13 +40,13 @@ knit        : slidify::knit2slides
 
 --- .class #id
 
-## And It Also Make Those Plots Below
+## And It Also Makes Those Plots Below
 
 
 ```r
-A0 <- -1; A1 <- 1; A2 <- -2; A3 <- -1; A4 <- 1
-source('quartic.R'); source('quarticPlot.R')
-sol <- quartic(A0,A1,A2,A3,A4); quarticPlot(sol)
+A0 <- -1; A1 <- 1; A2 <- -2; A3 <- -1; A4 <- 1   # this is just an example
+source('quartic.R'); source('quarticPlot.R')     # app codes are different
+sol <- quartic(A0,A1,A2,A3,A4); quarticPlot(sol) 
 ```
 
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png)
@@ -56,7 +56,7 @@ sol <- quartic(A0,A1,A2,A3,A4); quarticPlot(sol)
 
 ## See for Yourself
 
-1. App URL: ShinyApp link
+1. App URL: [ShinyApp link](http://frankla.shinyapps.io/quarticSolver)
 
 2. App source code: [GitHub link](https://github.com/FrankLa/DataProducts-ShinyAppCodes.git)
 
